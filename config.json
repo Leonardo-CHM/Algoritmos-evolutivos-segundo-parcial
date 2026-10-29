@@ -1,0 +1,9 @@
+{
+  "population_size": 30,
+  "generations": 80,
+  "crossover_probability": 0.8,
+  "mutation_probability": 0.01,
+  "seed": 42,
+  "elitism": true,
+  "plateau_window": 15
+}

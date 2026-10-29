@@ -1,0 +1,19 @@
+# Python y entorno virtual
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Archivos de trabajo generados al ejecutar
+salida_basica/
+resultados/
+output/
+
+# Configuraciones particulares del editor y el sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# No ignores config.json: forma parte de los requisitos evaluables.
